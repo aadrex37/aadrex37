@@ -1,4 +1,4 @@
-#About
+About
 
 - Hi, I’m @aadrex37
 - My full name is Aaron Drexler
@@ -6,7 +6,7 @@
 - Born and raised in Chicago
 
 
-#Work
+Work
 - I have a Bachelors in Mathematics from the University of Central Florida (UCF)
 - Focus in Education and Statistics
 - I recently got my Masters in Data Science from Bellevue University
@@ -17,5 +17,5 @@
 - https://www.bellevue.edu/degrees/master/data-science-ms/
 
 
-#Contact
+Contact
 - How to reach me, please email me: aadrex@comcast.net
