@@ -1,6 +1,7 @@
 - Hi, I’m @aadrex37
 - My full name is Aaron Drexler
 - I have a Bachelors in Mathematics from the University of Central Florida (UCF)
+-   Focus in Education and Statistics
 - I recently got my Masters in Data Science from Bellevue University
 - I used to teach High School Mathematics
 - I am currently employed by Sirius Computer Solutions as a Data Analyst
